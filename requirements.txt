@@ -1,0 +1,13 @@
+pip install cmake
+
+# for python 3.10
+pip install https://github.com/Murtaza-Saeed/dlib/raw/master/dlib-19.22.99-cp310-cp310-win_amd64.whl
+
+# for python 3.11
+pip install https://github.com/Murtaza-Saeed/dlib/raw/master/dlib-19.24.1-cp311-cp311-win_amd64.whl
+
+
+pip install face-recognition
+pip install face-recognition-models
+pip install opencv-python
+
